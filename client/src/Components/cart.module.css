@@ -1,0 +1,16 @@
+.cart {
+  height: 100vh;
+  vertical-align: middle;
+}
+.cart p {
+  margin: 0;
+  font-size: 1.5rem;
+  user-select: none;
+  text-decoration: none !important;
+}
+.cart p link {
+  text-decoration: none !important;
+}
+a {
+  text-decoration: none !important;
+}
